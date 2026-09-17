@@ -7,7 +7,7 @@ This is my portfolio of cibersecurity, where I will publish about my archivement
 
 ## Archivements
 
-1. Automation & Integration Project / Role (Legal Hub)
+1. Automation & Integration Project in my actual job.
 
 - Engineered web automation bots using Python and Selenium to streamline cross-platform operations, reducing manual data exposure and human error.
 - Developed secure API integrations between cloud platforms (Clio, Airtable, Gmail), ensuring safe data transmission and end-to-end workflow orchestration.
