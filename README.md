@@ -13,7 +13,7 @@ I'm an enthusiast in programming languages and I have a strong sense of security
 * Recilience
 
 ## Skills
-*Note: For any doubt regarding a concept, please refer to the [Industrial Safety to Cybersecurity Glossary](#-industrial-safety-to-cybersecurity-glossary).*
+*Note: For any doubt regarding a concept, please refer to the [Industrial Safety to Cybersecurity Glossary](#industrial-safety-to-cybersecurity-glossary).*
 
 ### Technical Skills
 * **Programming & Scripting Languages:** Python, SQL, Bash, C++, Kotlin, HTML
