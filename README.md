@@ -45,6 +45,7 @@ I'm an enthusiast in programming languages and I have a strong sense of security
 I want to become a professional cybersecurity engineer. Although I have a degree in Human Resources and no certificates yet, I have transferable skills that I have built in my previous jobs. I also have a strong understanding of programming languages like Python, C++, HTML, and JavaScript, which helps me to automate processes.
 
 ## Industrial Safety to Cybersecurity Glossary
+**Glosary for the note [Skills](Skills)**
 
 | Industrial Safety Term (ES) | Cybersecurity Equivalent (EN) | Why it translates this way / Technical Context |
 | :--- | :--- | :--- |
